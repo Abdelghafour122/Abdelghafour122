@@ -4,8 +4,7 @@
 😵 - I make responsive web templates using HTML & CSS & JavaScript  
 🧐 - I'm interested in growing my experience in Web Development  
 🤓 - I love working on challenging projects  
-👨‍💻 - I'm currently learning React  
-🚀 - I mainly upload Templates and Front-end mini projects  
+👨‍💻 - I'm currently learning React and Bootstrap   
 
 ![](https://komarev.com/ghpvc/?username=Abdelghafour122&color=green)  
 
