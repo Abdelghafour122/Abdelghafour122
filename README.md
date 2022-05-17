@@ -6,6 +6,8 @@
 🤓 - I love working on challenging projects  
 👨‍💻 - I'm currently learning React, MUI and Typescript   
 
+## Contact me here: echikr.abdelghafour@hotmail.com
+
 ![](https://komarev.com/ghpvc/?username=Abdelghafour122&color=green)  
 
 ## Skills and Tools:  
@@ -20,7 +22,6 @@
 
 ## Most used:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghafour122&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelghafour122)
 
 <!--
 **Abdelghafour122/Abdelghafour122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
