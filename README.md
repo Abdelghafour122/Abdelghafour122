@@ -1,12 +1,10 @@
 # Hi I'm @Abdelghafour122
-## 🔰 Junior Web Developer 🔰
+## Junior Web Developer 🔰
 
-:rocket: - I make responsive web templates using HTML & CSS & JavaScript  
+:rocket: - I make responsive web templates using HTML, CSS & JavaScript  
 🧐 - I'm interested in growing my experience in Web Development  
 🤓 - I love working on challenging projects  
 👨‍💻 - I'm currently learning React, MUI and Typescript   
-
-## Contact me here: echikr.abdelghafour@hotmail.com
 
 ![](https://komarev.com/ghpvc/?username=Abdelghafour122&color=green)  
 
