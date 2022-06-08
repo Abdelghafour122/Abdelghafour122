@@ -1,5 +1,4 @@
-# Hi I'm @Abdelghafour122
-## Junior Web Developer 🔰
+# Hi I'm Abdelghafour 👋
 
 :rocket: - I make responsive web templates using HTML, CSS & JavaScript  
 🧐 - I'm interested in growing my experience in Web Development  
