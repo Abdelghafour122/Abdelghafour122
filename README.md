@@ -3,9 +3,9 @@
 :rocket: - I make responsive web templates using HTML, CSS & JavaScript  
 🧐 - I'm interested in growing my experience in Web Development  
 🤓 - I love working on challenging projects  
-👨‍💻 - I'm currently learning React, MUI and Typescript   
+👨‍💻 - I'm currently learning React and Typescript   
 
-![](https://komarev.com/ghpvc/?username=Abdelghafour122&color=green)  
+![Abdelghafour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelghafour122&show_icons=true&theme=dark)  
 
 ## Skills and Tools:  
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
