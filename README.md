@@ -15,6 +15,7 @@
 <img align="left" alt="Tailwind-css" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:4px;"/>
 <img align="left" alt="Sass" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:4px;" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:4px;" /> 
+<img align="left" alt="TypeScript" width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" style="padding-right:4px;" /> 
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:4px;" />
 <img align="left" alt="Mui" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /><br/><br/>
 
