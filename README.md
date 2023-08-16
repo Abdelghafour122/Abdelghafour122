@@ -1,9 +1,6 @@
 # Hi I'm Abdelghafour 👋
 
-:rocket: - I make responsive web templates using HTML, CSS & JavaScript  
-🧐 - I'm interested in growing my experience in Web Development  
-🤓 - I love working on challenging projects  
-👨‍💻 - I'm currently learning React and Typescript   
+Software Engineering Student | Web Developer | Loves learning new technologies, coding & making Web Apps
 
 ![Abdelghafour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelghafour122&show_icons=true&theme=dark)  
 
