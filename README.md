@@ -3,7 +3,6 @@
 Software Engineering Student | Web Developer | Loves learning new technologies, coding & making Web Apps
 
 ![Abdelghafour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelghafour122&show_icons=true&theme=dark)  
-![Abdelghafour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelghafour122)](https://github.com/Abdelghafour122/github-readme-stats)
 
 ## Skills and Tools:  
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:4px;" />
