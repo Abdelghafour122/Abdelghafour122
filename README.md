@@ -1,6 +1,6 @@
 # Hi I'm Abdelghafour 👋
 
-Software Engineering Student | Web Developer | Loves learning new technologies, coding & making Web Apps
+Software Engineer | Web Developer | Loves learning new technologies, coding & making Web Apps
 
 ![Abdelghafour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelghafour122&show_icons=true&theme=dark)  
 
